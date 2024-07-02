@@ -35,4 +35,7 @@ To get started with the development of WeatherDemo, follow these steps:
 4. Utilize CoreLocation to request and manage the user's location data.
 5. Implement error handling for scenarios such as failed API requests or location access denied.
 
+![Simulator Screenshot - iPhone 15 Pro - 2024-07-02 at 20 44 39](https://github.com/cyborg-joshi/WeatherApp/assets/91533278/f51c7c03-1412-4044-ad33-3e3738386d98)
+
+
 
